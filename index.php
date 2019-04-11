@@ -1,3 +1,3 @@
 <?php
-echo "codigo <strong>PHP</strong>";
+echo "Meu codigo em <strong>PHP</strong>";
 ?>
